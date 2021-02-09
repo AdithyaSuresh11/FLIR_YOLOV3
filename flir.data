@@ -1,0 +1,7 @@
+classes= 80
+train  = /home/ray/Documents/darknet/darknet/FLIR/flir_train.txt
+labels = /home/ray/Documents/darknet/darknet/FLIR/flir_labels.txt
+valid  = /home/ray/Documents/darknet/darknet/FLIR/flir_valid.txt
+names = /home/ray/Documents/darknet/darknet/FLIR/flir_name.txt
+backup = /home/ray/Documents/darknet/darknet/backup
+
